@@ -1,0 +1,12 @@
+1) Line 78 - moveTurtle function - Left case is missing the break statement
+2) Line 127 - addEventListener - ArrowRightcase is missing the break statement
+3) Line 90 - moveTurtle function - updateTurtlePosition wasn't called
+4) Line 73 - moveTurtle function - Down boundaries weren't within the container; made changed FLOOR_SIZE to FLOOR_SIZE-1
+
+5) Line 81 - moveTurtle function -  Right boundaries weren't within the container; made changed FLOOR_SIZE to FLOOR_SIZE-1
+
+6) Line 70 - moveTurtle function - newDirection set to 270 instead of 0
+7) Line 74 - moveTurtle function - newDirection set to 90 instead of 180
+8) Line 78 - moveTurtle function - newDirection set to 180 instead of 270
+9) Line 82 - moveTurtle function - newDirection set to 0 instead of 90
+	
