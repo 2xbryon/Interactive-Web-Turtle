@@ -1,3 +1,5 @@
+Bug Fixes
+
 1) Line 78 - moveTurtle function - Left case is missing the break statement
 2) Line 127 - addEventListener - ArrowRightcase is missing the break statement
 3) Line 90 - moveTurtle function - updateTurtlePosition wasn't called
